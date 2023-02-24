@@ -8,7 +8,7 @@ metadata:
     opslevel.com/product: manual testing
     opslevel.com/framework: Vue.js
   tags:
-    - TypeScript
+    - typescript
 spec:
   type: service
   lifecycle: generally_available
