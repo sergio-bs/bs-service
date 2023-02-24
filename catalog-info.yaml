@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: bs
+  name: Backstage
   description: "Service name purposely does not match repo name"
   annotations:
     opslevel.com/tier: tier_3
