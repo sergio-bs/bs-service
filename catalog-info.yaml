@@ -6,7 +6,9 @@ metadata:
   annotations:
     opslevel.com/tier: tier_3
     opslevel.com/product: manual testing
-    opslevel.com/language: typescript
+    opslevel.com/framework: Vue.js
+  tags:
+    - TypeScript
 spec:
   type: service
   lifecycle: generally_available
